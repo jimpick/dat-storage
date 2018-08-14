@@ -2,7 +2,7 @@ var raf = require('random-access-file')
 var secretStorage = require('dat-secret-storage')
 var multi = require('multi-random-access')
 var messages = require('append-tree/messages')
-var stat = require('hyperdrive/lib/messages').Stat
+var stat = require('@jimpick/hyperdrive/lib/messages').Stat
 var path = require('path')
 
 module.exports = function (dir, opts) {
