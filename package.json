@@ -1,6 +1,6 @@
 {
   "name": "@jimpick/dat-storage",
-  "version": "1.0.4-1",
+  "version": "1.0.4-2",
   "description": "Dat specific storage provider for Hyperdrive",
   "main": "index.js",
   "dependencies": {
